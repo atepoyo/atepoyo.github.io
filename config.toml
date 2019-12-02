@@ -1,7 +1,7 @@
 author = "atepoyo"
 baseURL = "https://atepoyo.github.io/"
 languageCode = "ja"
-theme = "lanyon-hugo-master"
+theme = "hugo-theme-even-master"
 title = "atepoyo"
 
 [params]
