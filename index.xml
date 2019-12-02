@@ -6,10 +6,20 @@
     <description>Recent content on atepoyo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 14 Sep 2019 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2019 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://atepoyo.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>一日が終わった</title>
+      <link>https://atepoyo.github.io/post/2019-12-02/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0900</pubDate>
+      
+      <guid>https://atepoyo.github.io/post/2019-12-02/</guid>
+      <description>ほげほげ ここをこうすれば上手くいくのか、という決定的な学習がないままエラーをやりすごして公開にこぎつけた感じがある。 この文章がうまく投稿されるのかも分かっていないけど、うまくいくのであればこのまま運用することになると思う。
++++</description>
+    </item>
     
     <item>
       <title>ブログ始めました。</title>
