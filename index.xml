@@ -1,61 +1,70 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>atepoyo</title>
+    <title>atepoyo </title>
     <link>https://atepoyo.github.io/</link>
-    <description>Recent content on atepoyo</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <lastBuildDate>Tue, 03 Dec 2019 00:00:00 +0900</lastBuildDate>
+    <language>en-us</language>
+    <author></author>
+    <rights>(C) 2019</rights>
+    <updated>2019-12-03 00:00:00 &#43;0900 &#43;0900</updated>
+
     
-	<atom:link href="https://atepoyo.github.io/index.xml" rel="self" type="application/rss+xml" />
+      <item>
+        <title>新記事テスト</title>
+        <link>https://atepoyo.github.io/post/2019-12-03/</link>
+        <pubDate>Tue, 03 Dec 2019 00:00:00 &#43;0900</pubDate>
+        <author></author>
+        <guid>https://atepoyo.github.io/post/2019-12-03/</guid>
+        <description>&lt;p&gt;投稿されてくれ頼む！&lt;/p&gt;
+</description>
+      </item>
     
+      <item>
+        <title>一日が終わった</title>
+        <link>https://atepoyo.github.io/post/2019-12-02/</link>
+        <pubDate>Mon, 02 Dec 2019 00:00:00 UTC</pubDate>
+        <author></author>
+        <guid>https://atepoyo.github.io/post/2019-12-02/</guid>
+        <description>&lt;ul&gt;
+&lt;li&gt;ほげほげ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ここをこうすれば上手くいくのか、という決定的な学習がないままエラーをやりすごして公開にこぎつけた感じがある。&lt;/p&gt;
+&lt;p&gt;この文章がうまく投稿されるのかも分かっていないけど、うまくいくのであればこのまま運用することになると思う。&lt;/p&gt;
+</description>
+      </item>
     
-    <item>
-      <title>新記事テスト</title>
-      <link>https://atepoyo.github.io/post/2019-12-03/</link>
-      <pubDate>Tue, 03 Dec 2019 00:00:00 +0900</pubDate>
-      
-      <guid>https://atepoyo.github.io/post/2019-12-03/</guid>
-      <description>投稿されてくれ頼む！</description>
-    </item>
+      <item>
+        <title>手打ちの限界</title>
+        <link>https://atepoyo.github.io/post/2019-12-01/</link>
+        <pubDate>Sun, 01 Dec 2019 02:44:00 UTC</pubDate>
+        <author></author>
+        <guid>https://atepoyo.github.io/post/2019-12-01/</guid>
+        <description>&lt;p&gt;どうだ？&lt;/p&gt;
+</description>
+      </item>
     
-    <item>
-      <title>一日が終わった</title>
-      <link>https://atepoyo.github.io/post/2019-12-02/</link>
-      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://atepoyo.github.io/post/2019-12-02/</guid>
-      <description>ほげほげ  ここをこうすれば上手くいくのか、という決定的な学習がないままエラーをやりすごして公開にこぎつけた感じがある。
-この文章がうまく投稿されるのかも分かっていないけど、うまくいくのであればこのまま運用することになると思う。</description>
-    </item>
+      <item>
+        <title>限界へのロード</title>
+        <link>https://atepoyo.github.io/post/2019-11-30/</link>
+        <pubDate>Sat, 30 Nov 2019 00:00:00 UTC</pubDate>
+        <author></author>
+        <guid>https://atepoyo.github.io/post/2019-11-30/</guid>
+        <description>&lt;p&gt;Yo
+&lt;img src=&#34;https://atepoyo.github.io/images/IGT_kx4P_400x400.jpg&#34; alt=&#34;aaa&#34;&gt;&lt;/p&gt;
+</description>
+      </item>
     
-    <item>
-      <title>手打ちの限界</title>
-      <link>https://atepoyo.github.io/post/2019-12-01/</link>
-      <pubDate>Sun, 01 Dec 2019 02:44:00 +0000</pubDate>
-      
-      <guid>https://atepoyo.github.io/post/2019-12-01/</guid>
-      <description>どうだ？</description>
-    </item>
+      <item>
+        <title>ブログ始めました。</title>
+        <link>https://atepoyo.github.io/post/test/</link>
+        <pubDate>Sat, 14 Sep 2019 00:00:00 &#43;0900</pubDate>
+        <author></author>
+        <guid>https://atepoyo.github.io/post/test/</guid>
+        <description>&lt;h1 id=&#34;hogehoge1&#34;&gt;[hogehoge1]&lt;/h1&gt;
+&lt;h2 id=&#34;hogehoge2&#34;&gt;[hogehoge2]&lt;/h2&gt;
+&lt;p&gt;+++&lt;/p&gt;
+</description>
+      </item>
     
-    <item>
-      <title>限界へのロード</title>
-      <link>https://atepoyo.github.io/post/2019-11-30/</link>
-      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://atepoyo.github.io/post/2019-11-30/</guid>
-      <description>Yo </description>
-    </item>
-    
-    <item>
-      <title>ブログ始めました。</title>
-      <link>https://atepoyo.github.io/post/test/</link>
-      <pubDate>Sat, 14 Sep 2019 00:00:00 +0900</pubDate>
-      
-      <guid>https://atepoyo.github.io/post/test/</guid>
-      <description>[hogehoge1] [hogehoge2] +++</description>
-    </item>
-    
+
   </channel>
 </rss>
