@@ -1,0 +1,10 @@
+author = "atepoyo"
+baseURL = "https://atepoyo.github.io/"
+languageCode = "ja"
+theme = "hugo-zen"
+title = "atepoyo"
+
+[params]
+  logo = "/images/logo.jpg"
+  copyright = "ateopoyo All rights reserved."
+  twitter   = "https://twitter.com/atepoyo"
