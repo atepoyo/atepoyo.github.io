@@ -8,3 +8,7 @@ title = "atepoyo"
   logo = "/images/logo.jpg"
   copyright = "ateopoyo All rights reserved."
   twitter   = "https://twitter.com/atepoyo"
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
