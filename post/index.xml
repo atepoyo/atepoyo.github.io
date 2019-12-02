@@ -6,10 +6,19 @@
     <description>Recent content in Posts on atepoyo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 03 Dec 2019 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2019 01:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://atepoyo.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hello World Again Again</title>
+      <link>https://atepoyo.github.io/post/2019-12-03-01/</link>
+      <pubDate>Tue, 03 Dec 2019 01:00:00 +0900</pubDate>
+      
+      <guid>https://atepoyo.github.io/post/2019-12-03-01/</guid>
+      <description>testで～す</description>
+    </item>
     
     <item>
       <title>Hello World Again</title>
