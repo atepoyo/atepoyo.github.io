@@ -1,7 +1,7 @@
 author = "atepoyo"
 baseURL = "https://atepoyo.github.io/"
 languageCode = "ja"
-theme = "twentyfourteen-master"
+theme = "lanyon-hugo-master"
 title = "atepoyo"
 
 [params]
@@ -9,6 +9,3 @@ title = "atepoyo"
   copyright = "ateopoyo All rights reserved."
   twitter   = "https://twitter.com/atepoyo"
 
-[taxonomies]
-    tag = "tags"
-    category = "categories"
