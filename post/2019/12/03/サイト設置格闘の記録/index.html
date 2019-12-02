@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>サイト設置格闘の記録 | ?????ｳ]ｩw</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/">Home</a></li>
+      
+      <li><a href="/about/">About</a></li>
+      
+      <li><a href="/categories/">Categories</a></li>
+      
+      <li><a href="/tags/">Tags</a></li>
+      
+      <li><a href="/index.xml">Subscribe</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">サイト設置格闘の記録</span></h1>
+
+<h2 class="date">2019/12/03</h2>
+</div>
+
+<main>
+<h2 id="heading">こんなはずじゃなかった</h2>
+<p>現在04:54、今日は全ての進捗を放棄してここを設置するのに捧げた。総プレイ時間13時間ほどな気がする。</p>
+<p>友人が質問に全て答えてくれたばかりか、こうしたいという設計を即実装してくれた結果ほぼ理想の状態にまでたどり着くことができてしまった。一日でたどり着けたのは幸運な気がする。</p>
+<p>現在GitHub上のリポジトリに.mdファイルを追加することで記事が追加されるようになっており、GitHubが消滅しない限り文章が蓄積できる状態になっている。</p>
+<p>noteやはてなブログで書くことも考えたけど、いざ潰れるとなった時文章を回収するのがめんどくさそうだったのと、単純にサイトが重かったり余計なものが色々ついていたのが煩わしく、もっとシンプルな状態で書きたいという気持ちに従った。</p>
+<p>初めてGitHubやGitを触った結果使い方の入門編を学んだ気になれたので、備忘録としてここにメモしておきたい。</p>
+<h2 id="heading1">プルアドコミットプッシュ</h2>
+<p>ググれば一発で出てくるようなことなのかもしれないしたぶん表現も内容も間違っているけど、こういうのは今の自分のために自分で言語化するのが重要なので、そのようにします。</p>
+<ul>
+<li>
+<p>プル
+GitHub上の最新セーブデータとローカルの現状を接続する。
+万が一完全に競合する変更が起きていた場合、人は死ぬ。</p>
+</li>
+<li>
+<p>アド
+ローカルからコミットするファイルを指定する。</p>
+</li>
+<li>
+<p>コミット
+ローカルの現状をGitHub上にセーブする。最新セーブデータとなる。</p>
+</li>
+<li>
+<p>プッシュ
+ローカルのファイルをGitHubにアップロードする。
+プルできていない=GitHub上のセーブデータとローカルの現状の連続性が損なわれている場合、プッシュは失敗する。</p>
+</li>
+</ul>
+<p>ざっと書いてみて、セーブデータばっか蓄積していったらどうなっちゃうんだろう？みたいな疑問が生まれたけど、必要になった時に解消しようと思う。</p>
+<p>今後このままこのページが運用できるのであればそうそういじらないと思うけど、実際に目の前で物が動くととても楽しい。絵の形が見えた時の喜びに近い気がする。</p>
+
+</main>
+
+  <footer>
+  
+  
+  <hr/>
+  © [atepoyo] 2019 | <a href="https://github.com/atepoyo">Github</a> | <a href="https://twitter.com/atepoyo">Twitter</a>
+  
+  </footer>
+  </body>
+</html>
+
