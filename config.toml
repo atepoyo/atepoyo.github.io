@@ -1,6 +1,6 @@
 baseurl = "https://atepoyo.github.io/"
 languageCode = "ja"
-title = "?????ｳ]ｩw"
+title = "あげぽよ"
 theme = "hugo-xmin-master"
 googleAnalytics = ""
 disqusShortname = ""
@@ -33,5 +33,5 @@ footnotereturnlinkcontents = "↩"
 
 [params]
     description = "A website built through Hugo and blogdown."
-    footer = "&copy; [Yihui Xie](https://yihui.name) 2017 -- 2019 | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
+    footer = "&copy; [atepoyo] 2019 | [Github](https://github.com/atepoyo) | [Twitter](https://twitter.com/atepoyo)"
 
