@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on atepoyo</title>
+    <link>https://atepoyo.github.io/categories/hugo/</link>
+    <description>Recent content in hugo on atepoyo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 03 Dec 2019 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://atepoyo.github.io/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World Again</title>
+      <link>https://atepoyo.github.io/post/2019-12-03/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0900</pubDate>
+      
+      <guid>https://atepoyo.github.io/post/2019-12-03/</guid>
+      <description>友人にページの作り方を相談したら流れでうまいこと望む形を実現してくれた。持つべきものは興味のある分野に詳しい友人。</description>
+    </item>
+    
+  </channel>
+</rss>
