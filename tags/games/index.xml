@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>games on ?????ｳ]ｩw</title>
+    <link>https://atepoyo.github.io/tags/games/</link>
+    <description>Recent content in games on ?????ｳ]ｩw</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 18 Dec 2019 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://atepoyo.github.io/tags/games/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hand Simulator: Survivalをやった</title>
+      <link>https://atepoyo.github.io/post/2019/12/18/hand-simulator-survival%E3%82%92%E3%82%84%E3%81%A3%E3%81%9F/</link>
+      <pubDate>Wed, 18 Dec 2019 00:00:00 +0900</pubDate>
+      
+      <guid>https://atepoyo.github.io/post/2019/12/18/hand-simulator-survival%E3%82%92%E3%82%84%E3%81%A3%E3%81%9F/</guid>
+      <description>どんなゲームか https://store.steampowered.com/app/924140/Hand_Simulator_Survival/
+Steamで100円で買うことができるゲーム。
+異常な操作性の悪さ、予想外の動きをするオブジェクトがゲーム難易度の向上に一役買っており、簡単には先に進めない内容になっている。
+ゲームとしては、最大8人のCo-opゲーで、裸一貫の状態からサバイバルに必要なものを日中に集め夜を越すという作り。
+ステータスにはHPとしてのHEALTHと、それに関係する要素としてHUNGRY・THIRSTY・STAMINA・TEMPERATUREがあり、STAMINA以外の3要素が底をつくとHEALTHが激減し、死に至るようになっている。
+ちなみにSTAMINAは走ると減り、その間HUNGRYとTHIRSTYもじわじわ減る。歩くと移動がかなり遅いので基本的には走ることになる。
+ヤシの実・動物の肉・野生のキノコといった食料によってHUNGRYとTHIRSTYを満たしつつ、夜間は床落ちの薪を拾い集め焚き火をすることでTEMPERATUREを回復する。
+夜12時を越えるとプレイヤーの周りにヘビやサソリといったHEALTHを減らす動物が大量発生するため、それらから身を守るため切った木と竹で櫓を築くのだが、 床に居るはずのヘビがワープしたり空中浮遊したりするため本当に身を守れるのかいまいちはっきりしないすごいゲームだった。
+一人でクリアできる可能性は否定できないものの、前述のヘビのワープを避けるためにはストアページのPVにあるような櫓が必要な雰囲気があり、
+またそのようなヤグラを一人で組みつつ、夜を越せるだけの薪(10本以上)を集めることはかなりの練度が必要そう。
+なので基本的には複数人でプレイし始めるべきゲームだと思う。自分は友人たちと6人でやり、1人だけ生き残って夜を越して最初の実績を解除した。
+夜を越すために必要な道具は基本的に同じため、1日越す方略をチームで立てられればあとは作業になっていく気がする。
+もうやらないと思うけど、若干1人でやりたい気持ちもある。</description>
+    </item>
+    
+  </channel>
+</rss>
