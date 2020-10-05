@@ -4,14 +4,18 @@ body {
   padding: 2rem 1rem 4rem;
   font-size: 16px;
   line-height: 1.5em;
+  
 }
+
+
 
 /* header and footer areas */
 .menu { padding: 0; }
 .menu li { display: inline-block; }
 .article-meta, .menu a {
   text-decoration: none;
-  padding: 5px;
+  padding: 0;
+  margin-right:0.5rem;
   border-radius: 5px;
 }
 
@@ -19,6 +23,13 @@ body {
 footer a { text-decoration: none; }
 
 
+
+ul {
+  list-style-type:none;
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+  padding-inline-start: 0px;
+}
 
 h1 {
   font-size: 1.6rem;
@@ -72,7 +83,11 @@ pre {
 code { background: #f9f9f9; }
 pre code { background: none; }
 
+
+
 /* misc elements */
+
+
 
 img {
   backface-visibility: hidden;
