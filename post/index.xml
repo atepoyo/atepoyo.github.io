@@ -6,19 +6,21 @@
     <description>Recent content in Posts on ?????ｳ]ｩw</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2020 20:07:31 +0900</lastBuildDate>
     
 	<atom:link href="https://atepoyo.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>私見で綴るグミの歴史</title>
-      <link>https://atepoyo.github.io/post/2020/09/18/%E7%A7%81%E8%A6%8B%E3%81%A7%E7%B6%B4%E3%82%8B%E3%82%B0%E3%83%9F%E3%81%AE%E6%AD%B4%E5%8F%B2/</link>
-      <pubDate>Fri, 18 Sep 2020 00:00:00 +0900</pubDate>
+      <title>サイトをいじった</title>
+      <link>https://atepoyo.github.io/post/2020/10/05/%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E3%81%84%E3%81%98%E3%81%A3%E3%81%9F/</link>
+      <pubDate>Mon, 05 Oct 2020 20:07:31 +0900</pubDate>
       
-      <guid>https://atepoyo.github.io/post/2020/09/18/%E7%A7%81%E8%A6%8B%E3%81%A7%E7%B6%B4%E3%82%8B%E3%82%B0%E3%83%9F%E3%81%AE%E6%AD%B4%E5%8F%B2/</guid>
-      <description>この記事について 後日執筆予定
-グミ私史  まとめ </description>
+      <guid>https://atepoyo.github.io/post/2020/10/05/%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E3%81%84%E3%81%98%E3%81%A3%E3%81%9F/</guid>
+      <description>文章を書きたくなることが増えてきたので、このサイトをできるかぎりイメージに近づけてみた。
+HTMLが生成されるまでの過程をつまみ食いし、おそらく10年以上触れていないCSSについて調べながらサイトのレイアウトを変更したりした。
+以前N予備校のプログラミングコースで遊んでいた時はGitのことを完全に理解したつもりになっていたけど、数ヶ月置いてみてすべてを忘れていたし、何ならこのサイトをどのように作ったかも忘れていたため、それらを思い出すのに1時間くらい要した気がする。
+スマホで見たときに横幅が固定されていなかったり、大きな画像を貼ったりしたときの挙動を確認していないので完璧な状態ではないけど、ひとまず文章を置いておくための最低限の環境は作れたと思う。</description>
     </item>
     
     <item>
@@ -215,8 +217,7 @@ Steamで100円で買うことができるゲーム。
       <pubDate>Sat, 14 Sep 2019 00:00:00 +0900</pubDate>
       
       <guid>https://atepoyo.github.io/post/2019/09/14/%E3%81%93%E3%81%AE%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</guid>
-      <description>atea(@atepoyo)が思ったことを書き残すサイトです。
-アマゾンアソシエイトリンクを利用しています。</description>
+      <description>atea(@atepoyo)が思ったことを書き残すサイトです。</description>
     </item>
     
   </channel>
