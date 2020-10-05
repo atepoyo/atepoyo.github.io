@@ -12,12 +12,12 @@ footnotereturnlinkcontents = "↩"
     note = "/note/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "Home"
+    name = "atepoyo's blog"
     url = "/"
     weight = 1
 [[menu.main]]
     name = "About"
-    url = "/about/"
+    url = "post/2019/09/14/このサイトについて/"
     weight = 2
 [[menu.main]]
     name = "Categories"
@@ -27,9 +27,6 @@ footnotereturnlinkcontents = "↩"
     name = "Tags"
     url = "/tags/"
     weight = 4
-[[menu.main]]
-    name = "Subscribe"
-    url = "/index.xml"
 
 [params]
     description = "A website built through Hugo and blogdown."
