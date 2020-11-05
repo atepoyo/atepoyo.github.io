@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>anime on ?????ｳ]ｩw</title>
     <link>https://atepoyo.github.io/tags/anime/</link>
     <description>Recent content in anime on ?????ｳ]ｩw</description>
+    <content:encoded></content:encoded>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0900</lastBuildDate><atom:link href="https://atepoyo.github.io/tags/anime/index.xml" rel="self" type="application/rss+xml" />
