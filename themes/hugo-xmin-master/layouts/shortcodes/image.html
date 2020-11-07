@@ -1,0 +1,25 @@
+{{- $src := .Get "src" }}
+{{- $title := .Get "title" }}
+{{- $width := .Get "w" }}
+{{- $imageUrl := $src }}
+{{- $res := .Page.Resources.GetMatch $src }}
+
+{{- if $res }}
+  {{- $src = $res.RelPermalink }}
+  {{- $imageUrl = $res.RelPermalink }}
+{{- end }}
+
+{{- if $width }}
+  {{- $size := printf "%sx" $width }}
+  {{- $image := $res.Resize $size }}
+  {{- $imageUrl = $image.RelPermalink }}
+{{- end }}
+
+<figure style='margin:0 auto;text-align:center;'>
+  <a href="{{ $src }}" target="_blank">
+    <img src="{{ $imageUrl }}" alt="{{ $src }}" />
+  </a>
+  {{- with $title }}
+    <figcaption>{{ . }}</figcaption>
+  {{- end }}
+</figure>
