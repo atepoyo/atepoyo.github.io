@@ -7,7 +7,16 @@ body {
   
 }
 
+figure {
+  margin: auto;
+}
 
+figcaption {
+  color: #666;
+  font-size: 10px;
+  text-align: center;
+  margin: 0.25rem 0 2rem;
+}
 
 /* header and footer areas */
 .menu { padding: 0; }
@@ -49,6 +58,8 @@ hr {
   border-style: dashed;
   color: #ddd;
 }
+
+
 
 a {
   text-decoration:underline;
@@ -96,9 +107,13 @@ img {
   max-width: 100%;
 }
 
+
 figure img {
   margin-bottom: 0;
 }
+
+
+
 main { hyphens: auto; }
 blockquote {
   background: #f9f9f9;
