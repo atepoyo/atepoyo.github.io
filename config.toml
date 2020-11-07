@@ -6,6 +6,9 @@ googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 footnotereturnlinkcontents = "↩"
+twitterCardEnabled = true
+twitterCardDomain = "atepoyo.github.io"
+twitterCardAuthor = "atepoyo"
 
 [permalinks]
     post = "/post/:filename/"

@@ -1,0 +1,7 @@
+{{ $eyecatch_image := findRE "<image.*?src=([^>]*)?>" .Content 1 }}
+{{ range $eyecatch_image }}
+{{ . | safeHTML }}
+{{ end }}
+{{ else }}
+<img src="https://atepoyo.github.io/post/img/image-2020-10-05-1.jpg">
+{{ end}}

@@ -1,1 +1,7 @@
 <link rel="alternate" type="application/rss+xml" title="RSS" href="https://atepoyo.github.io/index.xml">
+<meta property="description" content="{{ .Title }}">
+<meta property="og:title" content="{{ .Title }}" />
+<meta propertye="og:description" content="{{ if .IsPage }}{{ .Summary }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
+<meta property="og:image" content="{{ if .Ispage }}{{ .Site.BaseURL }}{{ .Params.eyecatch }}{{ else }}{{ https://atepoyo.github.io/post/img/image-2020-10-05-1.jpg }}{{ end }}" />
+<meta property="twitter:url" content="{{ .Permalink }}" />
+<meta property="twitter:card" content="summary_large_image">
