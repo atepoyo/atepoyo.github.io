@@ -9,6 +9,7 @@ footnotereturnlinkcontents = "↩"
 twitterCardEnabled = true
 twitterCardDomain = "atepoyo.github.io"
 twitterCardAuthor = "atepoyo"
+eyecatch_image = "$eyecatch_image"
 
 [permalinks]
     post = "/post/:filename/"
