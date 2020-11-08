@@ -6,15 +6,6 @@
 
 {{ .Content }}
 
-{{ $eyecatch_image := findRE "<image.*?src=([^>]*)?>" .Content 1 }}
-{{ if ge (len $eyecatch_image ) 1 }}
-{{ range $eyecatch_image }}
-{{ . | safeHTML }}
-{{ end }}
-{{ else }}
-<img src="\content\post\img\image-2020-10-05-1.jpg">
-{{ end }}
-
 <ul type="none">
   {{ $pages := .Pages }}
   {{ if .IsHome }}{{ $pages = first 20 .Site.RegularPages }}{{ end }}
