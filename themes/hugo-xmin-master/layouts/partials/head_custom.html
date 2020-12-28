@@ -4,3 +4,12 @@
 <meta propertye="og:description" content="{{ if .IsPage }}{{ .Summary }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
 <meta property="twitter:url" content="{{ .Permalink }}" />
 <meta property="twitter:card" content="summary_large_image">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1JL8K17Q2D"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1JL8K17Q2D');
+</script>
