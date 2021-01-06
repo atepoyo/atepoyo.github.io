@@ -23,7 +23,7 @@ twitterCardAuthor = "atepoyo"
     url = "/about/"
     weight = 2
 [[menu.main]]
-    name = "Articles"
+    name = "All Articles"
     url = "/categories/diary/"
     weight = 3
 [[menu.main]]
